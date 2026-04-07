@@ -8,9 +8,9 @@ const About = () => {
       <div className="about-content">
         <div className="feature-grid">
           <div className="feature-card highlight">
-            <h3>Próximo Evento</h3>
-            <h4>AWS & IA</h4>
-            <p><strong>31/01 e 01/02/2026</strong><br/>Formação AWS</p>
+            <h3>O mair guerreiro é aquele que vence a si mesmo.</h3>
+            <h4>Tecnologia a serviço da vida</h4>
+            <p>Evoluindo sempre</p>
           </div>
         </div>
 
